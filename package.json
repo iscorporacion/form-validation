@@ -1,0 +1,10 @@
+{
+  "name": "dv-formvalidation",
+  "description": "Licenced formvalidation http://formvalidation.io/ to internal dataview use",
+  "version": "0.8.1",
+  "repository": {
+    "type": "git",
+    "url": "https://mdisconzi@bitbucket.org/mdisconzi/formvalidation-dist-v0.8.1.git"
+  },
+  "private": true
+}
