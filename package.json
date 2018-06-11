@@ -5,6 +5,5 @@
   "repository": {
     "type": "git",
     "url": "https://mdisconzi@bitbucket.org/dataviewti/dv-formvalidation.git"
-  },
-  "private": true
+  }
 }
